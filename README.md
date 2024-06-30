@@ -65,15 +65,15 @@ Our solution is divided into three main functional operations:
 # Technologies Used
 Core Technologies:
 
-> (1) Machine Learning Frameworks: 
-  TensorFlow, PyTorch
-  Data Processing: Apache Spark
-  Data Storage: HDFS, MongoDB
-  Visualization: D3.js, Chart.js, Power BI
+  1. Machine Learning Frameworks: 
+  > TensorFlow, PyTorch
+  > Data Processing: Apache Spark
+  > Data Storage: HDFS, MongoDB
+  > Visualization: D3.js, Chart.js, Power BI
 
-> (2) Microsoft Azure Services (for integration and automation):
-  Azure Data Factory
-  Azure Data Lake Storage
-  Azure Databricks
-  Azure Machine Learning
-  Power BI
+  2. Microsoft Azure Services (for integration and automation):
+  > Azure Data Factory
+  > Azure Data Lake Storage
+  > Azure Databricks
+  > Azure Machine Learning
+  > Power BI
