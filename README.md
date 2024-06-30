@@ -45,7 +45,6 @@ Continuous Monitoring: Implementing continuous monitoring and feedback loops.
 
 # Model Architecture
 Our model architecture includes:
-
 Data Collection Layer: Collects data from various sources.
 Data Processing Layer: Preprocesses and cleans the data.
 Model Training Layer: Trains machine learning models on the processed data.
@@ -54,7 +53,6 @@ Visualization Layer: Provides dashboards and visualizations for insights.
 
 # Financial Model
 Our financial model ensures cost-efficiency and scalability:
-
 Initial Setup Cost: Includes data collection, preprocessing, and initial model training.
 Operational Cost: Ongoing costs for data storage, model retraining, and monitoring.
 Cost Savings: Reduction in risk-related losses, improved compliance, and operational efficiencies.
