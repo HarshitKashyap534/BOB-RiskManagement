@@ -4,10 +4,11 @@ Table of Contents
 1. Overview
 2. Problem Statement
 3. Solution Architecture
+   
             (i) Model Architecture
             (ii) Financial Model
-4. Unique Features
-5. Technologies Used
+5. Unique Features
+6. Technologies Used
 
 
 # Overview
