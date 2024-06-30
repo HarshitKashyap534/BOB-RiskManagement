@@ -24,11 +24,11 @@ Banks face significant challenges in managing risks, including:
 Our solution is divided into three main functional operations:
 
 1. Identifying Risks & Fraud Detection
-  Data Ingestion: Using various data sources such as transactional data, market data, and customer data.
-  Data Storage: Storing raw data securely.
-  Data Processing: Cleaning and preprocessing data for analysis.
-  Risk & Fraud Detection: Deploying advanced models for anomaly detection, credit risk, and market risk.
-  Real-Time Monitoring: Implementing models for real-time monitoring and alerts.
+  > Data Ingestion: Using various data sources such as transactional data, market data, and customer data.
+  > Data Storage: Storing raw data securely.
+  > Data Processing: Cleaning and preprocessing data for analysis.
+  > Risk & Fraud Detection: Deploying advanced models for anomaly detection, credit risk, and market risk.
+  > Real-Time Monitoring: Implementing models for real-time monitoring and alerts.
 
 2. Predictive Analysis
   Predictive Model Training & Deployment: Training and deploying predictive models to forecast risks.
